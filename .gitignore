@@ -13,6 +13,8 @@ prepros-6.config
 *.pug
 *.html
 !index.html
+!project.html
+!projects.html
 
 # ==========
 # FILES
