@@ -1,12 +1,20 @@
-# We RISE MX
-Patrimonio en ascenso arquitectura que transforma.
+# WERISE
 
-### SiteMap
-- Inicio
+## Architecture
+- Home
+- Projects
+- Contact
 
-## Layout
-- Header
-- WhatsApp
-- Footer
-- CTA project
-- Related project
+### Features
+- Form
+- Button WhatsApp
+
+### Lauch
+- [x] Favicon
+- [x] Meta Pixel
+- GA4
+- GTM
+- Robots
+- Open
+- Schema
+- Img alt
