@@ -1,4 +1,5 @@
 .DS_Store
+prepros.config
 
 assets/*
 !assets/dist/
@@ -6,5 +7,6 @@ content/*
 kirby/*
 media/*
 site/*
+!site/templates/
 HTML/*
 html/*
